@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wailingwomenwinps30.org/sitemap.xml
